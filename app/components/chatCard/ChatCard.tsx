@@ -2,7 +2,7 @@ import React from "react";
 import user from "@/app/assets/dog.png";
 import Image from "next/image";
 
-const ChatCart = () => {
+const ChatCard = () => {
   return (
     <>
       <div>
@@ -32,4 +32,4 @@ const ChatCart = () => {
   );
 };
 
-export default ChatCart;
+export default ChatCard;
